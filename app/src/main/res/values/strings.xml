@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DroneImageUpload</string>
+    <string name="selectImageButton">Valitse kuva</string>
+    <string name="uploadImageButton">Lähetä kuva</string>
+    <string name="startObserverButton">Käynnistä kuuntelija</string>
+    <string name="stopObserverButton">Sammuta kuuntelija</string>
+    <string name="droneIdTextView">drone_id: </string>
+    <string name="observerStatusTextView">kuuntelija päällä</string>
+</resources>
